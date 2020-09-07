@@ -159,7 +159,7 @@ body {
 }
 
 .button {
-  margin: 0 0 24px;
+  margin: 0 auto;
   padding: 6px 20px;
   display: inline-block;
   vertical-align: baseline;
